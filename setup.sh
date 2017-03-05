@@ -3,5 +3,5 @@
 #
 
 sudo apt-get update
-sudo apt-get install build-essential 
-sudo apt-get install libmnl0 libmnl-dev
+sudo apt-get install build-essential -y
+sudo apt-get install libmnl0 libmnl-dev -y
