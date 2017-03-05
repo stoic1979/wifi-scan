@@ -49,7 +49,7 @@ sudo apt-get install git
 ### Cloning the repository
 
 ``` bash
-git clone https://github.com/bmegli/wifi-scan.git
+git clone https://github.com/stoic1979/wifi-scan.git
 ```
 
 ### Building the examples
