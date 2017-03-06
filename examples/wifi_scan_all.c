@@ -28,8 +28,7 @@
  */
 
 #include "../wifi_scan.h"
-#include <stdio.h>  //printf
-#include <unistd.h> //sleep
+#include <stdio.h>
 
 //convert bssid to printable hardware mac address
 const char *bssid_to_string(const uint8_t bssid[BSSID_LENGTH], char bssid_string[BSSID_STRING_LENGTH]) {
